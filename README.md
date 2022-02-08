@@ -1,2 +1,2 @@
 # musicplayer
-Implementation of Arrays and Linked List using OOPs concept
+Implementation of Arrays and Linked List using OOPs
